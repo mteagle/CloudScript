@@ -3,3 +3,5 @@ user b cung dang lam tren file nay
 
 
 Người khác sửa file này
+
+fix_bug 1
